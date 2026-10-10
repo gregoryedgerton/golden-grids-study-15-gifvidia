@@ -1,0 +1,330 @@
+{
+ "gpu-triple": {
+  "from": [
+   "unsplash",
+   "gpu",
+   1
+  ],
+  "alt": "A graphics card with three fans and a silver shroud, lit from the side on a dark ground"
+ },
+ "gpu-yellow": {
+  "from": [
+   "unsplash",
+   "gpu",
+   7
+  ],
+  "alt": "Two graphics cards with black fans and gold trim standing on a bright yellow background"
+ },
+ "gpu-pair": {
+  "from": [
+   "unsplash",
+   "gpu",
+   2
+  ],
+  "alt": "Two dual-fan graphics cards, one in front of the other, on a dark surface"
+ },
+ "gpu-build": {
+  "from": [
+   "unsplash",
+   "gpu",
+   0
+  ],
+  "alt": "A desktop tower with a graphics card visible through a glass side panel, lit in blue"
+ },
+ "pcb": {
+  "from": [
+   "unsplash",
+   "pcb",
+   6
+  ],
+  "alt": "A green circuit board with a black processor chip and rows of small components"
+ },
+ "pcb-red": {
+  "from": [
+   "unsplash",
+   "pcb",
+   2
+  ],
+  "alt": "A red circuit board with dense gold traces"
+ },
+ "chip": {
+  "from": [
+   "unsplash",
+   "chip",
+   7
+  ],
+  "alt": "A square processor die on a printed board, seen close"
+ },
+ "wafer": {
+  "from": [
+   "unsplash",
+   "wafer",
+   2
+  ],
+  "alt": "Silicon wafers catching rainbow light on a lab table"
+ },
+ "wafer-grid": {
+  "from": [
+   "unsplash",
+   "wafer",
+   1
+  ],
+  "alt": "A close view of the repeating dies on a silicon wafer, shimmering green and violet"
+ },
+ "dc-aisle": {
+  "from": [
+   "unsplash",
+   "dc2",
+   0
+  ],
+  "alt": "A long aisle between black server racks in a data center"
+ },
+ "dc-racks": {
+  "from": [
+   "unsplash",
+   "dc2",
+   1
+  ],
+  "alt": "Server racks with bundles of cable at their fronts"
+ },
+ "hall": {
+  "from": [
+   "unsplash",
+   "supercomputer",
+   2
+  ],
+  "alt": "A dark computing hall lined with racks, its aisle lit from above"
+ },
+ "cooling": {
+  "from": [
+   "unsplash",
+   "server",
+   3
+  ],
+  "alt": "Rows of white cooling fins joined by copper pipes, a liquid cooling assembly"
+ },
+ "cables": {
+  "from": [
+   "unsplash",
+   "cables",
+   0
+  ],
+  "alt": "Blue network cables running in tidy loops behind a rack"
+ },
+ "network": {
+  "from": [
+   "unsplash",
+   "supercomputer",
+   6
+  ],
+  "alt": "A glowing network of lines forming a sphere above a purple platform"
+ },
+ "laptop-dark": {
+  "from": [
+   "unsplash",
+   "laptop",
+   4
+  ],
+  "alt": "A slim laptop open in a dark room with a colour-washed screen"
+ },
+ "laptop-desk": {
+  "from": [
+   "unsplash",
+   "laptop",
+   5
+  ],
+  "alt": "A laptop on a wooden desk beside a lamp and a coffee cup"
+ },
+ "desk-setup": {
+  "from": [
+   "unsplash",
+   "laptop",
+   2
+  ],
+  "alt": "A laptop on a bookshelf desk, a lamp and plants beside it"
+ },
+ "gaming": {
+  "from": [
+   "unsplash",
+   "gaming",
+   0
+  ],
+  "alt": "A gaming monitor showing a rainbow equaliser above a keyboard in a dark room"
+ },
+ "gaming-rig": {
+  "from": [
+   "unsplash",
+   "gaming",
+   4
+  ],
+  "alt": "A glowing pink and blue desk with a monitor and a lit tower"
+ },
+ "keyboard": {
+  "from": [
+   "unsplash",
+   "keyboard",
+   0
+  ],
+  "alt": "A backlit keyboard seen close, its keys edged in blue light"
+ },
+ "code": {
+  "from": [
+   "unsplash",
+   "developer",
+   2
+  ],
+  "alt": "Lines of code in colour on a dark editor screen"
+ },
+ "edit": {
+  "from": [
+   "unsplash",
+   "creator",
+   3
+  ],
+  "alt": "A video editing timeline across two monitors"
+ },
+ "vr": {
+  "from": [
+   "unsplash",
+   "vr",
+   0
+  ],
+  "alt": "A white virtual reality headset standing on a table in warm light"
+ },
+ "aeco": {
+  "from": [
+   "unsplash",
+   "digital",
+   0
+  ],
+  "alt": "A rendering of a modern building at dusk, trees in autumn colour in front"
+ },
+ "auto": {
+  "from": [
+   "unsplash",
+   "car",
+   2
+  ],
+  "alt": "A car with a roof sensor array driving down a city street"
+ },
+ "auto-dash": {
+  "from": [
+   "unsplash",
+   "car",
+   0
+  ],
+  "alt": "The inside of a car at speed, the dashboard display glowing as streaks of light pass"
+ },
+ "energy": {
+  "from": [
+   "unsplash",
+   "energy",
+   1
+  ],
+  "alt": "A white wind turbine on a green hill under a clear sky"
+ },
+ "finance": {
+  "from": [
+   "unsplash",
+   "bank",
+   3
+  ],
+  "alt": "A trading screen with price charts in red and green"
+ },
+ "gov": {
+  "from": [
+   "unsplash",
+   "gov",
+   3
+  ],
+  "alt": "The domed Capitol building above its steps on a blue day"
+ },
+ "health": {
+  "from": [
+   "unsplash",
+   "medical",
+   1
+  ],
+  "alt": "A patient lying on the table of a white scanner, a clinician beside it"
+ },
+ "research": {
+  "from": [
+   "unsplash",
+   "research",
+   3
+  ],
+  "alt": "A bright laboratory with rows of microscopes on white benches"
+ },
+ "industrial": {
+  "from": [
+   "unsplash",
+   "factory",
+   1
+  ],
+  "alt": "Blue industrial robot arms working along an assembly line"
+ },
+ "media": {
+  "from": [
+   "unsplash",
+   "film",
+   6
+  ],
+  "alt": "A film crew with a camera and lights on a set washed in blue"
+ },
+ "restaurant": {
+  "from": [
+   "unsplash",
+   "restaurant",
+   7
+  ],
+  "alt": "A lit shop front with an open sign at the edge of a street"
+ },
+ "retail": {
+  "from": [
+   "unsplash",
+   "retail",
+   0
+  ],
+  "alt": "Fresh produce stacked on supermarket shelves under bright light"
+ },
+ "robotics": {
+  "from": [
+   "unsplash",
+   "humanoid",
+   0
+  ],
+  "alt": "The face and shoulders of a white humanoid robot in profile against black"
+ },
+ "robot-hand": {
+  "from": [
+   "unsplash",
+   "robot",
+   3
+  ],
+  "alt": "A white robot hand with fingers spread, open toward the camera"
+ },
+ "semiconductor": {
+  "from": [
+   "unsplash",
+   "wafer",
+   0
+  ],
+  "alt": "A silicon wafer in rainbow colour under a lab light"
+ },
+ "telecom": {
+  "from": [
+   "unsplash",
+   "telecom",
+   0
+  ],
+  "alt": "A lattice telecom tower rising against a blue sky"
+ },
+ "warehouse": {
+  "from": [
+   "unsplash",
+   "warehouse",
+   6
+  ],
+  "alt": "Workers walking between the tall shelves of a bright warehouse"
+ }
+}

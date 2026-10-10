@@ -1,0 +1,72 @@
+{
+  "number": "15",
+  "name": "Nvidia",
+  "brand": "GIFvidia",
+  "notice": "A layout study, not Nvidia: four of its pages (home, industries, the RTX Spark laptop marketplace and drivers) rebuilt with Golden Grids as GIFvidia, a parody name. Not affiliated with Nvidia; every story, laptop and driver is invented and nothing can be bought or downloaded.",
+  "pages": {
+    "index": "Home",
+    "industries": "Industries",
+    "shop": "RTX Spark laptops",
+    "drivers": "Drivers"
+  },
+  "summary": "The home page, the industries page, the RTX Spark laptop marketplace and the drivers page of nvidia.com, rebuilt as stacked golden grids, with the type on each card scaled to the square it sits in.",
+  "reviewed": {
+    "date": "October 9, 2026",
+    "method": "Read in a desktop browser at about 1,024 pixels wide, signed out, with text and computed styles taken from the pages and the marketplace's filters and the drivers form read for their options. No screenshot of the reference is kept or published.",
+    "pages": [
+      {
+        "label": "Home page",
+        "url": "https://www.nvidia.com/en-us/"
+      },
+      {
+        "label": "Industries",
+        "url": "https://www.nvidia.com/en-us/industries/"
+      },
+      {
+        "label": "RTX Spark, on the marketplace",
+        "url": "https://marketplace.nvidia.com/en-us/products/rtx-spark/"
+      },
+      {
+        "label": "Drivers",
+        "url": "https://www.nvidia.com/en-us/drivers/"
+      }
+    ]
+  },
+  "real": [
+    "The shape of each page: the order of its sections, the four home-page sections, the fourteen industries, the marketplace's filters and its fields, and the drivers form's four selects.",
+    "The lists the reference gives: the industries' names, the product categories, series and models of the drivers form, the operating systems and the languages, and the marketplace's two GPU tiers (5,120 and 6,144 cores), CPU tiers (18 and 20 cores), memory sizes (24 to 128 GB) and screen sizes (14 to 16 inch).",
+    "The figures the reference states: that its technologies power 81% of the TOP500 list, the dates of its conferences, the number of laptops listed (22) and the size of its surveys."
+  ],
+  "invented": [
+    "Every sentence of the stories, summaries and descriptions, which are the study's own wording of the subjects the reference covers. No partner's name is used.",
+    "Every laptop's maker, model and configuration: the five makers (Northfield, Kestrel, Halden, Ardent and Lumen) do not exist, and the laptops are not the reference's.",
+    "Every driver the finder returns: its name, version, release date and size are computed by the study from the choices made, and nothing can be downloaded.",
+    "Product names the reference gives as its own (RTX Spark, Blackwell, Grace, GeForce, DGX Spark, Nemotron) are played with the parody name in front, as GIFvidia RTX Spark and so on.",
+    "The name. GIFvidia is a parody name made for this study; it is not a chipmaker.",
+    "The dark colour scheme, which the reference does not have on the web."
+  ],
+  "assets": [
+    {
+      "what": "Photographs",
+      "source": "Unsplash photographers, each credited below and beside the photograph when it is opened. Each shows a kind of thing (a server aisle, a wafer, a laptop), not a product or a place offered here",
+      "url": "https://unsplash.com/license",
+      "licence": "Unsplash License (free to use; not a Creative Commons licence)"
+    },
+    {
+      "what": "Icons",
+      "source": "Drawn for the study; none is the reference's"
+    },
+    {
+      "what": "Text",
+      "source": "The study's own"
+    },
+    {
+      "what": "Typeface",
+      "source": "Barlow, standing in for the reference's own",
+      "licence": "SIL Open Font License"
+    }
+  ],
+  "owner": "NVIDIA Corporation",
+  "repo": "https://github.com/gregoryedgerton/golden-grids-study-15-nvidia",
+  "updated": "October 9, 2026"
+}

@@ -1,0 +1,412 @@
+{
+ "gpu-triple": {
+  "credit": "Thomas Foster",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/black-and-white-box-fan-vWgoeEYdtIY",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@thomasfos",
+  "alt": "A graphics card with three fans and a silver shroud, lit from the side on a dark ground",
+  "w": 1800,
+  "h": 1200
+ },
+ "gpu-yellow": {
+  "credit": "Andrey Matveev",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-close-up-of-a-video-card-on-a-yellow-background-ipVMl4H6g6o",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@zelebb",
+  "alt": "Two graphics cards with black fans and gold trim standing on a bright yellow background",
+  "w": 1600,
+  "h": 1200
+ },
+ "gpu-pair": {
+  "credit": "Nana Dua",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/black-and-silver-sony-cassette-player-1-Sfd9QSPi4",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@nanadua96",
+  "alt": "Two dual-fan graphics cards, one in front of the other, on a dark surface",
+  "w": 1800,
+  "h": 1200
+ },
+ "gpu-build": {
+  "credit": "Anthony Roberts",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-computer-with-a-blue-light-5WJhuXkqCkc",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@arcreates",
+  "alt": "A desktop tower with a graphics card visible through a glass side panel, lit in blue",
+  "w": 1801,
+  "h": 1201
+ },
+ "pcb": {
+  "credit": "Chris Ried",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/tilt-shift-photography-of-green-computer-motherboard-bN5XdU-bap4",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@cdr6934",
+  "alt": "A green circuit board with a black processor chip and rows of small components",
+  "w": 1798,
+  "h": 1200
+ },
+ "pcb-red": {
+  "credit": "Michael Dziedzic",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/red-and-black-circuit-board-aQYgUYwnCsM",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@lazycreekimages",
+  "alt": "A red circuit board with dense gold traces",
+  "w": 1600,
+  "h": 1257
+ },
+ "chip": {
+  "credit": "He Junhui",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/close-up-of-a-computer-processor-chip-on-circuit-board-cMoE2tU_BbM",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@he_junhui",
+  "alt": "A square processor die on a printed board, seen close",
+  "w": 1600,
+  "h": 1200
+ },
+ "wafer": {
+  "credit": "Igor Shalyminov",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-close-up-of-a-mirror-with-a-reflection-of-a-person-wR4Q9r7KWBU",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@ishalyminov",
+  "alt": "Silicon wafers catching rainbow light on a lab table",
+  "w": 1798,
+  "h": 1200
+ },
+ "wafer-grid": {
+  "credit": "Laura Ockel",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/silicon-wafer-with-iridescent-microchip-grid-qOx9KsvpqcM",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@viazavier",
+  "alt": "A close view of the repeating dies on a silicon wafer, shimmering green and violet",
+  "w": 1835,
+  "h": 1201
+ },
+ "dc-aisle": {
+  "credit": "İsmail Enes Ayhan",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/server-room-aisle-with-metal-equipment-racks-lVZjvw-u9V8",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@ismailenesayhan",
+  "alt": "A long aisle between black server racks in a data center",
+  "w": 2087,
+  "h": 1200
+ },
+ "dc-racks": {
+  "credit": "Taylor Vick",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/cable-network-M5tzZtFCOfs",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@tvick",
+  "alt": "Server racks with bundles of cable at their fronts",
+  "w": 2139,
+  "h": 1200
+ },
+ "hall": {
+  "credit": "Samuele Macauda",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-long-hallway-with-a-clock-on-the-wall-hH8vTxSTINQ",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@samuele14",
+  "alt": "A dark computing hall lined with racks, its aisle lit from above",
+  "w": 1800,
+  "h": 1200
+ },
+ "cooling": {
+  "credit": "Brecht Corbeel",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/white-towers-with-copper-wiring-XkdQTjikmjI",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@brechtcorbeel",
+  "alt": "Rows of white cooling fins joined by copper pipes, a liquid cooling assembly",
+  "w": 1800,
+  "h": 1200
+ },
+ "cables": {
+  "credit": "Scott Rodgerson",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-bunch-of-blue-wires-connected-to-each-other-PSpf_XgOM5w",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@scottrodgerson",
+  "alt": "Blue network cables running in tidy loops behind a rack",
+  "w": 1801,
+  "h": 1200
+ },
+ "network": {
+  "credit": "Growtika",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/an-abstract-image-of-a-sphere-with-dots-and-lines-nGoCBxiaRO0",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@growtika",
+  "alt": "A glowing network of lines forming a sphere above a purple platform",
+  "w": 2134,
+  "h": 1200
+ },
+ "laptop-dark": {
+  "credit": "Artin Bakhan",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/macbook-pro-on-black-table-SqLyNHbsLKQ",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@artinbakhan",
+  "alt": "A slim laptop open in a dark room with a colour-washed screen",
+  "w": 1600,
+  "h": 1200
+ },
+ "laptop-desk": {
+  "credit": "The Maker Jess",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-computer-monitor-sitting-on-top-of-a-wooden-desk--H2U3ZNI2ME",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@themakerjess",
+  "alt": "A laptop on a wooden desk beside a lamp and a coffee cup",
+  "w": 1800,
+  "h": 1200
+ },
+ "desk-setup": {
+  "credit": "Radek Grzybowski",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/macbook-pro-on-brown-wooden-table-inside-room-eBRTYyjwpRY",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@rgrzybowski",
+  "alt": "A laptop on a bookshelf desk, a lamp and plants beside it",
+  "w": 1628,
+  "h": 1201
+ },
+ "gaming": {
+  "credit": "Resul Kaya",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/black-flat-screen-computer-monitor-turned-on-beside-black-computer-keyboard-xxL1FavYOh0",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@rsullkya",
+  "alt": "A gaming monitor showing a rainbow equaliser above a keyboard in a dark room",
+  "w": 1600,
+  "h": 1200
+ },
+ "gaming-rig": {
+  "credit": "ELLA DON",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-computer-desk-with-a-monitor-keyboard-and-mouse-JomkRNkzKhE",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@elladon",
+  "alt": "A glowing pink and blue desk with a monitor and a lit tower",
+  "w": 1804,
+  "h": 1200
+ },
+ "keyboard": {
+  "credit": "Christian Wiediger",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/closeup-photo-of-computer-keyboard-WkfDrhxDMC8",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@christianw",
+  "alt": "A backlit keyboard seen close, its keys edged in blue light",
+  "w": 1800,
+  "h": 1200
+ },
+ "code": {
+  "credit": "Chris Ried",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-code-on-it-ieic5Tq8YMk",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@cdr6934",
+  "alt": "Lines of code in colour on a dark editor screen",
+  "w": 1798,
+  "h": 1200
+ },
+ "edit": {
+  "credit": "Jakob Owens",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/black-imac-apple-magic-keyboard-and-apple-magic-mouse-l82NzBSYbj0",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@jakobowens1",
+  "alt": "A video editing timeline across two monitors",
+  "w": 1791,
+  "h": 1200
+ },
+ "vr": {
+  "credit": "Remy Gieling",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/pink-and-white-vr-goggles-Zf0mPf4lG-U",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@gieling",
+  "alt": "A white virtual reality headset standing on a table in warm light",
+  "w": 1800,
+  "h": 1200
+ },
+ "aeco": {
+  "credit": "Shaurya Kauhsish",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-rendering-of-a-building-in-the-middle-of-a-park-w9Ae-0Gap9I",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@shawko",
+  "alt": "A rendering of a modern building at dusk, trees in autumn colour in front",
+  "w": 2134,
+  "h": 1200
+ },
+ "auto": {
+  "credit": "Timo Wielink",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-car-that-is-sitting-in-the-street-KLAnz8wGO1E",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@timowielink",
+  "alt": "A car with a roof sensor array driving down a city street",
+  "w": 1801,
+  "h": 1201
+ },
+ "auto-dash": {
+  "credit": "Samuele Errico Piccarini",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/time-lapse-photography-of-man-riding-car-MyjVReZ5GLQ",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@samuele_piccarini",
+  "alt": "The inside of a car at speed, the dashboard display glowing as streaks of light pass",
+  "w": 1812,
+  "h": 1201
+ },
+ "energy": {
+  "credit": "Thomas Réaubourg",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/white-windmill-during-daytime-JRUVbgJJTBM",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@thomasreaubourg",
+  "alt": "A white wind turbine on a green hill under a clear sky",
+  "w": 2134,
+  "h": 1200
+ },
+ "finance": {
+  "credit": "Nick Chong",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/screen-showing-bitcoin-trading-chart-N__BnvQ_w18",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@nick604",
+  "alt": "A trading screen with price charts in red and green",
+  "w": 1800,
+  "h": 1200
+ },
+ "gov": {
+  "credit": "Elijah Mears",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/white-concrete-building-under-blue-sky-during-daytime-E94nZORR5qc",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@elijahjmears",
+  "alt": "The domed Capitol building above its steps on a blue day",
+  "w": 1800,
+  "h": 1200
+ },
+ "health": {
+  "credit": "Accuray",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-person-lying-on-a-bed-ibdJjGbrgxI",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@accuray",
+  "alt": "A patient lying on the table of a white scanner, a clinician beside it",
+  "w": 1800,
+  "h": 1200
+ },
+ "research": {
+  "credit": "Ousa Chea",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/white-microscope-on-top-of-black-table-gKUC4TMhOiY",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@cheaousa",
+  "alt": "A bright laboratory with rows of microscopes on white benches",
+  "w": 1800,
+  "h": 1200
+ },
+ "industrial": {
+  "credit": "Homa Appliances",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/blue-industrial-robot-arm-in-factory-sz1CHL7Pky0",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@homaappliances",
+  "alt": "Blue industrial robot arms working along an assembly line",
+  "w": 1914,
+  "h": 1200
+ },
+ "media": {
+  "credit": "Kyle Loftus",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/man-in-white-dress-shirt-holding-black-camera-kJklJAcwqLk",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@kyleloftusstudios",
+  "alt": "A film crew with a camera and lights on a set washed in blue",
+  "w": 1801,
+  "h": 1200
+ },
+ "restaurant": {
+  "credit": "Vincent Y @USA",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/neon-open-24-hours-sign-in-a-building-window-lrVMhfPQFIM",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@vincentyuan87",
+  "alt": "A lit shop front with an open sign at the edge of a street",
+  "w": 1800,
+  "h": 1200
+ },
+ "retail": {
+  "credit": "Gemma C",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/fresh-fruit-on-grocery-store-shelves-stpjHJGqZyw",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@_gemmajade",
+  "alt": "Fresh produce stacked on supermarket shelves under bright light",
+  "w": 1600,
+  "h": 1200
+ },
+ "robotics": {
+  "credit": "Gabriele Malaspina",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-white-robot-is-standing-in-front-of-a-black-background-CjWsslYVnPI",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@gabrielemalaspina",
+  "alt": "The face and shoulders of a white humanoid robot in profile against black",
+  "w": 1600,
+  "h": 1203
+ },
+ "robot-hand": {
+  "credit": "Franck V.",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/closeup-photo-of-white-robot-arm-jIBMSMs4_kA",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@possessedphotography",
+  "alt": "A white robot hand with fingers spread, open toward the camera",
+  "w": 1668,
+  "h": 1201
+ },
+ "semiconductor": {
+  "credit": "Maxence Pira",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-close-up-of-a-pattern-of-small-squares-7hR3FrFs4Q0",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@maxence_pira",
+  "alt": "A silicon wafer in rainbow colour under a lab light",
+  "w": 1600,
+  "h": 1201
+ },
+ "telecom": {
+  "credit": "Kabiur Rahman Riyad",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/black-metal-tower-under-blue-sky-YzZJUXjb9aw",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@riiyad",
+  "alt": "A lattice telecom tower rising against a blue sky",
+  "w": 2134,
+  "h": 1200
+ },
+ "warehouse": {
+  "credit": "Adrian Sulyok",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/workers-walking-through-warehouse-aisle-c_4eaGRDSVU",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@sulyok_imaging",
+  "alt": "Workers walking between the tall shelves of a bright warehouse",
+  "w": 1801,
+  "h": 1201
+ }
+}
