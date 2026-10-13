@@ -1,3 +1,5 @@
+GIFcommit00014
+
 # Layout study — Nvidia, as GIFvidia
 
 **Live:** [`https://gregoryedgerton.github.io/golden-grids-study-15-nvidia/`](https://gregoryedgerton.github.io/golden-grids-study-15-nvidia/)
