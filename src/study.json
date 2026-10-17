@@ -41,6 +41,7 @@
     "Every sentence of the stories, summaries and descriptions, which are the study's own wording of the subjects the reference covers. No partner's name is used.",
     "Every laptop's maker, model and configuration: the five makers (Northfield, Kestrel, Halden, Ardent and Lumen) do not exist, and the laptops are not the reference's.",
     "Every driver the finder returns: its name, version, release date and size are computed by the study from the choices made, and nothing can be downloaded.",
+    "The controls the study leaves out or relabels. The reference's header account control, its download buttons on the drivers page and its conference registration buttons are not rebuilt: the study has no accounts, offers no software and takes no registrations, so the app's square carries a plain note and the finder's result has no button.",
     "Product names the reference gives as its own (RTX Spark, Blackwell, Grace, GeForce, DGX Spark, Nemotron) are played with the parody name in front, as GIFvidia RTX Spark and so on.",
     "The name. GIFvidia is a parody name made for this study; it is not a chipmaker.",
     "The dark colour scheme, which the reference does not have on the web."
@@ -68,5 +69,5 @@
   ],
   "owner": "NVIDIA Corporation",
   "repo": "https://github.com/gregoryedgerton/golden-grids-study-15-nvidia",
-  "updated": "October 9, 2026"
+  "updated": "October 17, 2026"
 }

@@ -3,7 +3,6 @@ import { Icon } from "../icons";
 import { seen, photo } from "../photos";
 import { SOURCES, cited, type SourceKey } from "../sources";
 import { CATEGORIES, INCHES, LANGS, MAKERS, MEMORIES, OSES, SERIES, driverFor, type Laptop } from "../content";
-import { Cta } from "./cards";
 
 /** Flat modules: bars, lists and forms. They are not grids because their content has no hierarchy to descend. */
 
@@ -110,7 +109,7 @@ export function DriverFinder() {
             <div><dt>File size</dt><dd>{found.size}</dd></div>
           </dl>
           <ul className="bullets">{found.notes.map((n) => <li key={n}>{n}</li>)}</ul>
-          <p><Cta label="Download" /> <span className="note">Nothing is downloaded: the driver, its version and its date are invented for this study.</span></p>
+          <p className="note finder__note">The driver, its version, its date and its size are invented for this study. The study offers no software, and nothing is downloaded.</p>
         </div>
       )}
     </section>

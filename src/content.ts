@@ -33,9 +33,9 @@ export const MARKET_NAV = ["Marketplace", "RTX Spark", "Products", "Applications
 export interface Story { id: string; kicker: string; title: string; body: string; photo?: string; icon?: IconName; href?: string; cta?: string }
 
 export const HERO: Story[] = [
-  { id: "spark", kicker: "Artificial Intelligence", title: "A New Beginning for Windows PCs", body: "GIFvidia RTX Spark puts GIFvidia AI and RTX graphics together in one PC for creating, developing and gaming. Preorder now.", photo: "laptop-dark", href: PAGES.shop, cta: "Learn More" },
+  { id: "spark", kicker: "Artificial Intelligence", title: "A New Beginning for Windows PCs", body: "GIFvidia RTX Spark puts GIFvidia AI and RTX graphics together in one PC for creating, developing and gaming. The laptops are listed on the marketplace.", photo: "laptop-dark", href: PAGES.shop, cta: "Learn More" },
   { id: "local", kicker: "Artificial Intelligence", title: "Watch the CEO Join a Software Maker for a Conversation on Local AI", body: "Two chief executives talk about models that run on the machine in front of you, and what that changes for developers.", photo: "code", cta: "Watch" },
-  { id: "gtc-dc", kicker: "GIFvidia GTC", title: "GTC Washington, D.C.", body: "Developers, researchers and business leaders meet for four days of sessions on what comes next in AI.", photo: "gov", cta: "Register" },
+  { id: "gtc-dc", kicker: "GIFvidia GTC", title: "GTC Washington, D.C.", body: "Developers, researchers and business leaders meet for four days of sessions on what comes next in AI.", photo: "gov", cta: "Learn More" },
   { id: "roi", kicker: "Data Center", title: "Productive, Durable, Fungible: Infrastructure That Maximizes ROI", body: "Why the same racks can train a model in the morning and serve it in the afternoon, and keep their value for years.", photo: "dc-aisle", cta: "Read the Blog" },
   { id: "berlin", kicker: "Keynote", title: "Watch the CEO's Keynote at GTC Berlin", body: "The opening address from Europe's AI conference: robots, factories, cars and the systems behind them.", photo: "network", cta: "Watch" },
   { id: "vera", kicker: "Data Center", title: "GIFvidia Vera Rubin NVL72 and Vera CPU Come to a Cloud Provider", body: "A cloud operator adds the newest rack-scale systems and processors to its fleet for customers to rent.", photo: "dc-racks", cta: "Learn More" },
@@ -93,7 +93,7 @@ export const SECTIONS = {
   game: { title: "Gaming and Creating", body: "GIFvidia RTX powers the world's fastest PCs and the ultimate platform for gamers and creators: ray tracing, AI-powered DLSS and much more, on a desktop, a laptop, in the cloud or in the living room." },
 };
 
-export const GTC = { title: "GTC Washington, D.C. Registration Is Now Open", body: "Join developers, researchers and business leaders on Nov. 30 to Dec. 3 to explore the next wave of AI innovation.", cta: "Get Your Pass Now" };
+export const GTC = { title: "GTC Comes to Washington, D.C.", body: "Developers, researchers and business leaders meet from Nov. 30 to Dec. 3 to explore the next wave of AI innovation.", cta: "See the Sessions" };
 
 /* ---------- Facts ---------- */
 export interface Fact { line: string; label: string; body?: string; tone?: "black" | "green" | "grey"; icon?: IconName }
@@ -213,7 +213,7 @@ export function driverFor(category: string, series: string, product: string, os:
   return {
     name: studio ? "RTX Enterprise Production Branch Driver" : category === "Data Center / Tesla" ? "Data Center Driver" : kind === "beta" ? "Game Ready Driver (Beta)" : "Game Ready Driver (Certified)",
     version: `${major}.${minor}`, date: `${month} ${day}, 2026`, size: `${(seed % 400) / 10 + (linux ? 180 : 620)} MB`.replace(/(\d+)\.(\d)/, (_, a, b) => `${a}.${b}`), os, product,
-    notes: [`Supports ${product}.`, kind === "beta" ? "A preview of the next release; may be less stable." : "Tested and certified for stability.", linux ? "Installs from a .run file or your distribution's package." : "Includes the GIFvidia App's installer."],
+    notes: [`Supports ${product}.`, kind === "beta" ? "A preview of the next release; may be less stable." : "Tested and certified for stability.", linux ? "Packaged as a .run file, or by your distribution." : "Bundled with the GIFvidia App."],
   };
 }
 

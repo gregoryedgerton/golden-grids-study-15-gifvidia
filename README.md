@@ -57,7 +57,7 @@ plain one.
 | Page | Band | Cells |
 | --- | --- | --- |
 | Home | Featured | the chosen story and four tabs; choosing a tab swaps it into the hero |
-| | Registration | a banner, two figures, a figure in the strip |
+| | Conference | a banner, two figures, a figure in the strip |
 | | AI / Simulation / HPC / Gaming | each a band of four to five cards, then a second band of the rest, with figures among them |
 | Industries | Our Industries | fourteen photographs in three bands; each opens to what it covers |
 | | State of AI Reports | four reports as flat tiles and a figure |
@@ -105,13 +105,27 @@ has been reviewed.
   330, 200 and 200px; the two smallest show a photograph and a black label.
 - **Spec lines.** A laptop card shows its six lines from about 360px square;
   below that they are in the opened card.
-- **Download** does nothing; the result names a version and a date the study
-  invented.
+- **The driver finder's result** has no button: it names a version, a date and
+  a size the study invented, and says that nothing is downloaded.
 - **Accessibility.** `captures/scan.cjs` reports no overflow, no fitted line
   under 12px and no axe violations in Chrome and WebKit at 390, 820 and 1440,
   light and dark. No screen-reader user has tested it.
 - **Not rebuilt.** The mega menus, sign-in, the other marketplace categories,
   the story pages the cards lead to, and the downloads.
+- **Changes after the Safe Browsing flag (2026-10-17).** Google Safe Browsing
+  flagged the address these studies share, gregoryedgerton.github.io, as
+  deceptive (pages that trick visitors into sharing personal information or
+  downloading software). Nothing was ever collected or offered here, but
+  controls that look like a download or a sign-in were removed. The drivers
+  page's app square ("Download Now") now ends in a plain note that the study
+  offers no software, its band reads "Automatic Driver Updates", and the driver
+  finder's result lost its Download button. The header's Sign In is gone; the
+  search and the region hold the right of the bar. The paragraph on virtual GPU
+  drivers no longer speaks of signing in to a download portal. The conference
+  banner and story no longer say Register or Get Your Pass Now, the hero story
+  no longer says Preorder now, and the driver notes no longer mention an
+  installer. The shop page had no Buy, cart, checkout or payment control and
+  no input but its filters and pager; it is unchanged.
 
 ## Disclosure
 

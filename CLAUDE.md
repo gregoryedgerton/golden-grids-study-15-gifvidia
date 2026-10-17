@@ -293,3 +293,47 @@ opened in StackBlitz at `https://stackblitz.com/~/github.com/gregoryedgerton/gol
 - Do not append `?file=` to the `~/github.com` link; it made the IDE fail to
   start in testing. The classic `/github/` importer accepts `?file=` but waits
   on a WebSocket and can stall at "Cloning repo from GitHub".
+
+## Safe Browsing remediation (2026-10)
+
+On 2026-10-17 Google Safe Browsing flagged the whole origin
+gregoryedgerton.github.io as "social engineering" (pages that try to trick
+visitors into sharing personal information or downloading software). The first
+trigger was the demo bank sign-in in Study 19 (GIFbank); every study was then
+cleared of anything that *looks like* collecting credentials or personal data,
+signing in, paying or downloading software. Nothing was ever collected or
+offered here. The scanner reads appearance, so the appearance changed. A
+drivers page with "Download Now" and a finder that ends in "Download" is the
+shape of a fake software update.
+
+**What changed**
+- Drivers page (`src/pages/drivers.tsx`): the app square's "Download Now"
+  button is gone; `GetStarted` (`src/lib/cards.tsx`) now takes an optional
+  `note` shown in the button's place, and the square says the study offers no
+  software. The band and the square read "Automatic Driver Updates" (not "Get
+  Automatic Driver Updates"), and the band's line no longer tells the reader to
+  keep a PC up to date.
+- Driver finder (`DriverFinder`, `src/lib/modules.tsx`): the result has no
+  Download button, only the driver's details and a note; the notes in
+  `driverFor` (`src/content.ts`) no longer mention an installer.
+- The paragraph on virtual GPU drivers no longer speaks of signing in to an
+  enterprise download portal.
+- The header's Sign In (`src/lib/Page.tsx`, `.top__signin`) is gone; the search
+  and the region hold the right of the bar. The unused `user`, `download` and
+  `cart` icons were dropped from `src/icons.tsx`.
+- Home page: the conference banner (`GTC`) reads "GTC Comes to Washington,
+  D.C." with "See the Sessions" in place of "Registration Is Now Open" and "Get
+  Your Pass Now"; the GTC story says "Learn More", not "Register"; the hero
+  story no longer ends "Preorder now".
+- The shop page was checked: no Buy, Add to cart, checkout or payment control,
+  no price, and no input but the filters and the pager. Each laptop's "Learn
+  More" does nothing and its opened card says nothing can be bought. Unchanged.
+- The pages still name and link the reference from the disclosure only; all
+  four are public pages, not sign-in pages.
+
+**Do not** bring back a Download, Install, Update now or Get the app control,
+a Sign In, a registration or ticket button, a Buy or cart control, or any input
+for an email, a password, an address or a payment, on any page of this study.
+After the origin is clean, request a review in Google Search Console (Security
+Issues).
+

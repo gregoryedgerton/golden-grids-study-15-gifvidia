@@ -8,8 +8,10 @@ import { useFontsReady } from "./fonts";
 
 /**
  * The shell, after the reference's: a black bar with the mark, Products,
- * Solutions, Industries, Shop, Drivers and Support, then a search, the region
- * and Sign In; a darker marketplace bar on the shop page; a footer of three
+ * Solutions, Industries, Shop, Drivers and Support, then a search and the
+ * region (the reference's Sign In is left out: the study has no accounts, see
+ * CLAUDE.md, Safe Browsing remediation); a darker marketplace bar on the shop
+ * page; a footer of three
  * columns of lists and the legal links. The items are the reference's, for
  * show; the study's pages are the links, and the search works on the study's
  * own four. Nothing in the shell leaves for the reference: its pages are
@@ -59,7 +61,6 @@ export function Page({ current, source, market, children }: { current: string; s
           <div className="top__right">
             <Search />
             <span className="top__region"><Icon name="globe" size={18} />US</span>
-            <span className="top__signin"><Icon name="user" size={18} />Sign In</span>
           </div>
         </div>
       </header>

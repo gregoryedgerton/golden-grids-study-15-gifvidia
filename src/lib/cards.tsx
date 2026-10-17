@@ -194,12 +194,13 @@ export function LaptopCard({ l, x, slotKey }: { l: Laptop; x: ExpandGroup; slotK
   );
 }
 
-export function GetStarted({ title, body, cta, tone = "black", href }: { title: string; body: string; cta: string; tone?: "black" | "green" | "grey"; href?: string }): ReactNode {
+/** A get-started square: a title, a line and either the reference's button or, where the button would offer software, a plain note in its place. */
+export function GetStarted({ title, body, cta, note, tone = "black", href }: { title: string; body: string; cta?: string; note?: string; tone?: "black" | "green" | "grey"; href?: string }): ReactNode {
   return (
     <div className={`box box--${tone} getstarted`}>
       <div className="box__fit"><Fit as="h3" className="fit--title" min={14} max={52}>{title}</Fit></div>
       <div className="box__body"><Fit as="div" className="fit--body" min={12} max={20}><p>{body}</p></Fit></div>
-      <div className="box__foot"><Cta label={cta} href={href} /></div>
+      {(cta || note) && <div className="box__foot">{cta ? <Cta label={cta} href={href} /> : <span className="box__source">{note}</span>}</div>}
     </div>
   );
 }
