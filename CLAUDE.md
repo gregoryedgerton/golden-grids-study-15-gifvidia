@@ -15,7 +15,7 @@ report, laptop, fact tile and strip); `src/lib/modules.tsx` the flat modules
 `src/sources.ts` and `src/photos.json` the provenance. Read
 `docs/program/PROGRAM.md`, then `STUDY-BRIEF.md`, then `README.md`.
 
-Live at https://gregoryedgerton.github.io/golden-grids-study-15-nvidia/;
+Live at https://gregoryedgerton.github.io/golden-grids-study-15-gifvidia/;
 pushing to `main` deploys.
 
 ## Rules that are not negotiable
@@ -337,3 +337,5 @@ for an email, a password, an address or a payment, on any page of this study.
 After the origin is clean, request a review in Google Search Console (Security
 Issues).
 
+
+- **Address (2026-10-17, Greg).** The repository moved from `golden-grids-study-15-nvidia` to `golden-grids-study-15-gifvidia`, so the reference's name is no longer in the study's web address (a step against the Safe Browsing flag on the shared origin); the old address no longer serves anything.

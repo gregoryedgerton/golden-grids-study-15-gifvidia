@@ -2,7 +2,7 @@ GIFcommit00014
 
 # Layout study — Nvidia, as GIFvidia
 
-**Live:** [`https://gregoryedgerton.github.io/golden-grids-study-15-nvidia/`](https://gregoryedgerton.github.io/golden-grids-study-15-nvidia/)
+**Live:** [`https://gregoryedgerton.github.io/golden-grids-study-15-gifvidia/`](https://gregoryedgerton.github.io/golden-grids-study-15-gifvidia/)
 
 An unaffiliated layout study. It rebuilds four pages of
 [nvidia.com](https://www.nvidia.com/en-us/) (the home page, industries, the RTX
@@ -142,3 +142,5 @@ NODE_PATH=<a node_modules with playwright> node captures/scan.cjs http://localho
 ```
 
 Pushing to `main` deploys to GitHub Pages.
+
+- **Address (2026-10-17, Greg).** The repository moved from `golden-grids-study-15-nvidia` to `golden-grids-study-15-gifvidia`, so the reference's name is no longer in the study's web address (a step against the Safe Browsing flag on the shared origin); the old address no longer serves anything.
